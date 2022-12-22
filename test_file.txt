@@ -5,7 +5,7 @@
 <span style='background-color:#dcffe4'> 2번째 : 다시 풀어보기 </span>
 
 
-<span style="background-color:red">빨간 글씨</span>  
+<span style="background-color:red">빨간 글씨</span>  wertyuio
 <span style="background-color:blue">파란 글씨</span>  
 <span style="background-color:green">초록 글씨</span>  
 <span style="background-color:yellow">노란 글씨</span>  
