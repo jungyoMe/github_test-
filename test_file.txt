@@ -1,0 +1,24 @@
+<span style='background-color:#ffdce0'> 다시 풀어보기 </span>
+<span style='background-color:#ffdce0'> 빨강현광펜</span>
+<span style='background-color:#dcffe4'> 초록현광펜</span>
+<span style='background-color:#0000FF'> 파란색 </span>
+<span style='background-color:#dcffe4'> 2번째 : 다시 풀어보기 </span>
+
+
+<span style="background-color:red">빨간 글씨</span>  
+<span style="background-color:blue">파란 글씨</span>  
+<span style="background-color:green">초록 글씨</span>  
+<span style="background-color:yellow">노란 글씨</span>  
+<span style="background-color:purple">보라 글씨</span> 
+
+# 이미지 크기 조정
+<img width="25" alt="star1" src="https://user-images.githubusercontent.com/78655692/151471925-e5f35751-d4b9-416b-b41d-a059267a09e3.png">
+
+<span style='color:#0000FF'> 파란색 </span>
+<span style='color:red'> 빨간색 </span>
+<span style='background-color:#ffdce0'> <strong> 굵은 빨간 형광펜 </strong></span>
+
+
+<span style="font-size:250%">폰트사이즈 250</span>  
+<span style="font-size:100%">폰트사이즈 100</span>  
+<span style="font-size:50%">폰트사이즈 50</span>  
